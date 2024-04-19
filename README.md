@@ -1,4 +1,4 @@
-# 💬📝 Named Entity Recognition in Natural Language Processing 🤖📊 
+# 💬 Named Entity Recognition in Natural Language Processing 📝 
 
 This repository hosts our group's project on Named Entity Recognition (NER) as part of the China-ASEAN Online Program on Data Science and Big Data Analysis (2020.9-2020.11). Our focus has been to develop models that accurately perform NER tasks within the field of Natural Language Processing.
 
