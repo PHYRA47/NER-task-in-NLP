@@ -1,4 +1,4 @@
-# Named Entity Recognition in Natural Language Processing 🤖📊
+# 💬📝 Named Entity Recognition in Natural Language Processing 🤖📊 
 
 This repository hosts our group's project on Named Entity Recognition (NER) as part of the China-ASEAN Online Program on Data Science and Big Data Analysis (2020.9-2020.11). Our focus has been to develop models that accurately perform NER tasks within the field of Natural Language Processing.
 
@@ -8,7 +8,7 @@ The project is in line with the objectives of the program: enhancing students' k
 
 ## Scripts Overview 📄
 
-### Script 1: BiLSTM-CRF Model 🤖
+### Script 1: BiLSTM-CRF Model ✒️
 
 - **Functionality**: Loads and processes the [dataset](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus![image](https://github.com/PHYRA47/NER-task-in-NLP/assets/102316140/c190f00d-e619-456a-b7cf-d2154d530a55)
 ), preparing it for the NER task. Utilizes a Bidirectional Long Short-Term Memory (BiLSTM) coupled with a Conditional Random Field (CRF) for sequence tagging.
@@ -19,7 +19,7 @@ The project is in line with the objectives of the program: enhancing students' k
   - Model training and evaluation using metrics like precision, recall, and F1-score
   - Performance visualization of training and validation accuracy
  
-### Script 2: BiLSTM-CNN Model 📊
+### Script 2: BiLSTM-CNN Model 📔
 
 - **Functionality**: Enhances the ability to recognize named entities by integrating character-level information into the embeddings. This script employs a hybrid model combining LSTM and Convolutional Neural Networks (CNNs) for effective context capture.
 - **Features**:
