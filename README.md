@@ -10,7 +10,8 @@ The project is in line with the objectives of the program: enhancing students' k
 
 ### Script 1: BiLSTM-CRF Model 🤖
 
-- **Functionality**: Loads and processes the Chinese-ASEAN dataset, preparing it for the NER task. Utilizes a Bidirectional Long Short-Term Memory (BiLSTM) coupled with a Conditional Random Field (CRF) for sequence tagging.
+- **Functionality**: Loads and processes the [dataset](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus![image](https://github.com/PHYRA47/NER-task-in-NLP/assets/102316140/c190f00d-e619-456a-b7cf-d2154d530a55)
+), preparing it for the NER task. Utilizes a Bidirectional Long Short-Term Memory (BiLSTM) coupled with a Conditional Random Field (CRF) for sequence tagging.
 - **Features**:
   - Tokenization and sentence segmentation
   - Data cleaning and preparation
