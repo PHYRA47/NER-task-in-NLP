@@ -19,7 +19,7 @@ The project is in line with the objectives of the program: enhancing students' k
   - Model training and evaluation using metrics like precision, recall, and F1-score
   - Performance visualization of training and validation accuracy
  
-### Script 2: LSTM with Character-Level Embeddings 📊
+### Script 2: BiLSTM-CNN Model 📊
 
 - **Functionality**: Enhances the ability to recognize named entities by integrating character-level information into the embeddings. This script employs a hybrid model combining LSTM and Convolutional Neural Networks (CNNs) for effective context capture.
 - **Features**:
